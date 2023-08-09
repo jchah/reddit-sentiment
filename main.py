@@ -6,7 +6,7 @@ from collections import Counter
 import praw
 import openai
 
-openai.api_key = "sk-OPENAI KEY"
+openai.api_key = "OPENAI KEY"
 requests_made = 0
 RATE_LIMIT = 59
 
