@@ -1,2 +1,2 @@
-# stock-sentiment-analysis
-A tool to analyze the sentiment around stock tickers on Reddit
+# gpt-reddit-sentiment
+A tool to analyze the sentiment (for example: stock tickers) on Reddit
